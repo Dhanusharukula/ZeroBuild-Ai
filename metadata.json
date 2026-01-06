@@ -1,0 +1,5 @@
+{
+  "name": "Architect AI Suite",
+  "description": "A sophisticated AI-powered architectural assistant that generates spatial layouts, conceptual building descriptions, and interactive 2D floor plan visualizations using Gemini.",
+  "requestFramePermissions": []
+}
